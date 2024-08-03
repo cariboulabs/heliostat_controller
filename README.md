@@ -1,2 +1,3 @@
-# heliostat_controller
-Heliostat Interconnect and Networking 
+# Heliostat Controller
+
+Heliostat Interconnect and Networking sybsystem.
