@@ -1,0 +1,54 @@
+Altium Designer Pick and Place Locations
+C:\projects\hcu_hardware\hardware\zeleno_hcubc_r1\.\REV1.0\Pick Place\Pick Place for hcubc_r1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       29/07/24
+Time:       01:05
+Revision:   295511994504899ccd17506471f7e2727772a259
+Variant:    No variations
+Units used: mil
+
+Designator Comment                        Layer       Footprint            Center-X(mil) Center-Y(mil) Rotation Description                                                                        
+C1         10u                            BottomLayer MURATA_0603          88.583        718.504       180      "Multilayer Ceramic Capacitors MLCC - SMD/SMT 10 uF 35 VDC 20% 0603 X5R"           
+R51        10k                            BottomLayer PANASONIC_0402       255.908       602.359       0        "Thick Film Resistors - SMD 1/16watt 10Kohms 1% Commercial Use"                    
+U14        SPV1040TTR                     BottomLayer SOP65P640X120-8N     383.858       285.433       270      "Switching Voltage Regulators Hi Eff Solar Charger MPPT 0.3V to 5.5V"              
+U8         BQ25171QWDRCRQ1                BottomLayer BQ25171QWDRCRQ1      147.638       620.079       180      "AUTOMOTIVE, 800-MA Linear Battery charger IC, 1-2-cell LiIon"                     
+R64        330k                           BottomLayer PANASONIC_0402       561.024       147.638       270      "Thick Film Resistors - SMD 1/16watt 330Kohms 1%"                                  
+R63        1k                             BottomLayer PANASONIC_0402       541.339       216.535       180      "Thick Film Resistors - SMD 1/16watt 1Kohms 1% Commercial Use"                     
+R62        DNP                            BottomLayer PANASONIC_0402       236.220       324.803       270      "Thick Film Resistors - SMD 1/20watt 1Kohms 1% 100ppm"                             
+R61        1M                             BottomLayer PANASONIC_0402       600.394       147.638       270      "Thick Film Resistors - SMD 1/16W 1Mohm .5%"                                       
+R60        10                             BottomLayer PANASONIC_0402       285.433       246.063       270      "Dale Thick Film Resistors - SMD 1/16watt 10ohms 1%"                               
+R59        1k                             BottomLayer PANASONIC_0402       541.339       265.748       180      "Thick Film Resistors - SMD 1/16watt 1Kohms 1% Commercial Use"                     
+R58        "10 mOhm"                      BottomLayer RES_ERJ6CW           620.079       285.433       90       "Current Sense Resistors - SMD 0805 0.5% 0.01ohm AEC-Q200"                         
+R57        1k                             BottomLayer PANASONIC_0402       236.220       246.063       270      "Thick Film Resistors - SMD 1/16watt 1Kohms 1% Commercial Use"                     
+R56        100k                           BottomLayer PANASONIC_0402       -29.528       659.449       270      "Thick Film Resistors - SMD 1/20watt 100Kohms 1% 200ppm"                           
+R55        100k                           BottomLayer PANASONIC_0402       9.843         698.819       270      "Thick Film Resistors - SMD 1/20watt 100Kohms 1% 200ppm"                           
+R54        1k                             BottomLayer PANASONIC_0402       -334.646      482.284       0        "Thick Film Resistors - SMD 1/16watt 1Kohms 1% Commercial Use"                     
+R53        1k                             BottomLayer PANASONIC_0402       -334.331      442.913       0        "Thick Film Resistors - SMD 1/16watt 1Kohms 1% Commercial Use"                     
+R26        1k                             BottomLayer PANASONIC_0402       255.908       641.729       0        "Thick Film Resistors - SMD 1/16watt 1Kohms 1% Commercial Use"                     
+R25        23.2k                          BottomLayer PANASONIC_0402       29.528        629.921       180      "Thick Film Resistors - SMD 1/16watt 23.2Kohms 1%"                                 
+R22        100k                           BottomLayer PANASONIC_0402       49.213        551.181       270      "Thick Film Resistors - SMD 1/16watt 100Kohms 1%"                                  
+L1         10u                            BottomLayer XAL6060-103MEB       68.898        344.488       90       "Power Inductors - SMD 10uH Shld 20% 7A 29.82mOhms AECQ2"                          
+D20        PMEG60T30ELRX                  BottomLayer SODFL3517X110N       403.543       492.126       180      "60 V, 3 A low leakage current Trench MEGA Schottky barrier rectifier"             
+D19        SMM4F5.0A-TR                   BottomLayer SMM4F15ATR           551.181       437.501       90       "ESD Suppressors / TVS Diodes 400W HI JCT TMP"                                     
+D8         "Red & Bright Green, 2V, 140°" BottomLayer WL-SBCC_0603         -415.357      460.634       0        "WL-SBCC SMT Bi-color Chip LED Compact, size 0603, Red & Bright Green, 2V, 140°"   
+C115       1n                             BottomLayer MURATA_0402          501.969       167.323       180      "Multilayer Ceramic Capacitors MLCC 1000pF ±5% 100V C0G 0402"                      
+C114       100n                           BottomLayer MURATA_0402          285.433       324.803       270      "Multilayer Ceramic Capacitors MLCC - SMD/SMT 0.1 uF 50 VDC 10% 0402 X7R AEC-Q200" 
+C113       10u                            BottomLayer MURATA_0603          511.811       324.803       180      "Multilayer Ceramic Capacitors MLCC - SMD/SMT 10 uF 35 VDC 20% 0603 X5R"           
+C112       1u                             BottomLayer MURATA_0402          482.284       236.220       270      "Multilayer Ceramic Capacitors MLCC - SMD/SMT 1 uF 50 VDC 10% 0402 X5R"            
+C111       4.7u                           BottomLayer MURATA_0402          482.284       393.701       90       "Multilayer Ceramic Capacitors MLCC - SMD/SMT 0402 MLCC X5R 4.7 uF +/ -20% 10V"    
+C38        100n                           BottomLayer MURATA_0402          -147.638      669.291       90       "Multilayer Ceramic Capacitors MLCC - SMD/SMT 0.1 uF 50 VDC 10% 0402 X7R AEC-Q200" 
+C28        10u                            BottomLayer MURATA_0603          -147.638      246.063       270      "Multilayer Ceramic Capacitors MLCC - SMD/SMT 10 uF 35 VDC 20% 0603 X5R"           
+C27        10u                            BottomLayer MURATA_0603          -98.425       669.291       270      "Multilayer Ceramic Capacitors MLCC - SMD/SMT 10 uF 35 VDC 20% 0603 X5R"           
+C26        10u                            BottomLayer MURATA_0603          -98.425       246.063       270      "Multilayer Ceramic Capacitors MLCC - SMD/SMT 10 uF 35 VDC 20% 0603 X5R"           
+C25        100n                           BottomLayer MURATA_0201          186.024       708.661       180      "Multilayer Ceramic Capacitors MLCC - SMD/SMT 0.1 uF 35 VDC 10% 0201 X5R"          
+C24        4.7u                           BottomLayer MURATA_0402          177.165       748.032       180      "Multilayer Ceramic Capacitors MLCC - SMD/SMT 0402 MLCC X5R 4.7 uF +/ -20% 10V"    
+MP4        "M3 x 2.5mm"                   TopLayer    78614025360          2775.590      0.000         0        "WE-SMSA SMT Spacer Studs Automotive, OD 6mm, ID 4.2mm, M3 x 2.5mm"                
+MP5        "M3 x 2.5mm"                   TopLayer    78614025360          2775.591      964.567       0        "WE-SMSA SMT Spacer Studs Automotive, OD 6mm, ID 4.2mm, M3 x 2.5mm"                
+MP6        "M3 x 2.5mm"                   TopLayer    78614025360          0.000         964.567       0        "WE-SMSA SMT Spacer Studs Automotive, OD 6mm, ID 4.2mm, M3 x 2.5mm"                
+MP7        "M3 x 2.5mm"                   TopLayer    78614025360          0.000         0.000         0        "WE-SMSA SMT Spacer Studs Automotive, OD 6mm, ID 4.2mm, M3 x 2.5mm"                
+J2         B2B-XH-A(LF)(SN)               BottomLayer JST_B2B-XH-A(LF)(SN) -334.659      268.321       270      "Connector Header Through Hole 2 position 0.098 (2.50mm)"                          
+J3         B2B-XH-A(LF)(SN)               BottomLayer JST_B2B-XH-A(LF)(SN) -334.646      669.291       270      "Connector Header Through Hole 2 position 0.098 (2.50mm)"                          
+J1         53748-0408                     TopLayer    537480408            1023.622      78.740        180      "Molex B2B 40 Pos, 0.5mm pitch, stack-height 3 mm, mates with 52991-0408"          

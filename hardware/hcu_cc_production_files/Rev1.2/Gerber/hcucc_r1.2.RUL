@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\projects\hcu_hardware\hardware\zeleno_hcucc_r1\hcucc_r1.2.PcbDoc
+RuleKind=Width|RuleName=Schematic Width Constraint_4|Scope=Board|Minimum=6.64
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.50
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=4.00
