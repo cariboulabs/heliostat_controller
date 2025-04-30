@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: hcuduino_r1.0.GBR   4/23/2025  12:52:00 AM
+Gerber File Extension Report For: hcuduino_r1.0.GBR   4/30/2025  8:51:46 AM
 ------------------------------------------------------------------------------------------
 
 
@@ -11,11 +11,11 @@ Layer Extension     Layer Description
 .GTS                Top Solder                              
 .GTL                Top Layer                               
 .G1                 Int1 (GND)                              
+.G2                 Int2 (PWR)                              
 .GBL                Bottom Layer                            
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM1                Outline                                 
-.GD1                Drill Drawing                           
 .GM                 Profile                                 
 ------------------------------------------------------------------------------------------

@@ -38,8 +38,4 @@ D73   ROUNDED           129.921      59.055       0.000 FLASH     270.000
 D74   ROUNDED           291.339     291.339       0.000 FLASH       0.000
 D75   ROUNDED            20.000      20.000       0.000 FLASH       0.000
 D76   ROUNDED             3.000       3.000       0.000 FLASH       0.000
-D77   ROUNDED             2.000       2.000       0.000  LINE       0.000
-D78   ROUNDED            15.000      15.000       0.000  LINE       0.000
-D79   ROUNDED             8.000       8.000       0.000  LINE       0.000
-D80   ROUNDED            20.000      20.000       0.000  LINE       0.000
-D81   ROUNDED             1.000       1.000       0.000  LINE       0.000
+D77   ROUNDED             1.000       1.000       0.000  LINE       0.000
