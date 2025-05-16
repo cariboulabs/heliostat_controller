@@ -1,0 +1,55 @@
+Altium Designer Pick and Place Locations
+C:\projects\hcu_hardware\hardware\zeleno_hcuduino\.\REV1.0\Pick Place\Pick Place for hcuduino_r1.0.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       30/04/25
+Time:       08:51
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                        Layer    Footprint              Center-X(mil) Center-Y(mil) Rotation Description                                                                               
+R9         10                             TopLayer PANASONIC_0402         1082.677      236.220       0        "Dale Thick Film Resistors - SMD 1/16watt 10ohms 1%"                                      
+U1         TCA6416ARTWR                   TopLayer QFN50P400X400X80-25N-D 2224.409      885.827       180      "Low-Voltage 16-Bit I2C and SMBus I/O Expander, with interrupt"                           
+R8         1k                             TopLayer PANASONIC_0402         2795.276      1751.968      90       "Thick Film Resistors - SMD 1/16watt 1Kohms 1% Commercial Use"                            
+R7         1k                             TopLayer PANASONIC_0402         2834.646      1751.968      90       "Thick Film Resistors - SMD 1/16watt 1Kohms 1% Commercial Use"                            
+R6         1k                             TopLayer PANASONIC_0402         2913.386      1751.653      90       "Thick Film Resistors - SMD 1/16watt 1Kohms 1% Commercial Use"                            
+R5         1k                             TopLayer PANASONIC_0402         2952.756      1751.968      90       "Thick Film Resistors - SMD 1/16watt 1Kohms 1% Commercial Use"                            
+R4         10k                            TopLayer PANASONIC_0201         2303.150      756.890       90       "Thick Film Resistors - SMD 1/20watt 10Kohms 1% 100ppm 0201"                              
+R3         10k                            TopLayer PANASONIC_0201         2233.268      767.716       0        "Thick Film Resistors - SMD 1/20watt 10Kohms 1% 100ppm 0201"                              
+J4         M20-9720846                    TopLayer M20-9720846            3160.236      701.181       90       "Header Male 2X8"                                                                         
+D3         "Red & Bright Green, 2V, 140°" TopLayer WL-SBCC_0603           2814.961      1850.394      270      "WL-SBCC SMT Bi-color Chip LED Compact, size 0603, Red & Bright Green, 2V, 140°"          
+D2         "Red & Bright Green, 2V, 140°" TopLayer WL-SBCC_0603           2933.071      1850.394      270      "WL-SBCC SMT Bi-color Chip LED Compact, size 0603, Red & Bright Green, 2V, 140°"          
+C7         10u                            TopLayer MURATA_0603            2168.161      699.825       270      "Multilayer Ceramic Capacitors MLCC - SMD/SMT 10 uF 35 VDC 20% 0603 X5R"                  
+C6         100n                           TopLayer MURATA_0402            2224.409      708.662       270      "Multilayer Ceramic Capacitors MLCC - SMD/SMT 0.1 uF 50 VDC 10% 0402 X7R AEC-Q200"        
+C5         100n                           TopLayer MURATA_0402            2263.780      708.662       270      "Multilayer Ceramic Capacitors MLCC - SMD/SMT 0.1 uF 50 VDC 10% 0402 X7R AEC-Q200"        
+R1         10                             TopLayer PANASONIC_0402         885.512       236.220       180      "Dale Thick Film Resistors - SMD 1/16watt 10ohms 1%"                                      
+R2         10                             TopLayer PANASONIC_0402         964.567       236.220       180      "Dale Thick Film Resistors - SMD 1/16watt 10ohms 1%"                                      
+D1         D18V0L1B2LPQ-7B                TopLayer DFN65P101X53-2N        492.126       1409.449      90       "ESD Suppressors / TVS Diodes General 15kV Cont., 20kV Air, 20Vw Protection PP DFN1006-2" 
+C4         100n                           TopLayer MURATA_0402            433.071       1409.449      90       "Multilayer Ceramic Capacitors MLCC - SMD/SMT 0.1 uF 50 VDC 10% 0402 X7R AEC-Q200"        
+C3         10u                            TopLayer MURATA_0603            374.016       1399.606      270      "Multilayer Ceramic Capacitors MLCC - SMD/SMT 10 uF 35 VDC 20% 0603 X5R"                  
+C2         10u                            TopLayer MURATA_0603            551.181       1125.984      270      "Multilayer Ceramic Capacitors MLCC - SMD/SMT 10 uF 35 VDC 20% 0603 X5R"                  
+3          "ARDUINO UNO"                  TopLayer ARDUINO_UNO            1461.890      898.819       0        ""                                                                                        
+C1         10u                            TopLayer MURATA_0603            492.126       1047.244      270      "Multilayer Ceramic Capacitors MLCC - SMD/SMT 10 uF 35 VDC 20% 0603 X5R"                  
+R51        10k                            TopLayer PANASONIC_0402         374.016       1195.197      90       "Thick Film Resistors - SMD 1/16watt 10Kohms 1% Commercial Use"                           
+U8         BQ25171QWDRCRQ1                TopLayer BQ25171QWDRCRQ1        393.701       1082.677      270      "AUTOMOTIVE, 800-MA Linear Battery charger IC, 1-2-cell LiIon"                            
+R56        100k                           TopLayer PANASONIC_0402         2978.347      1456.693      270      "Thick Film Resistors - SMD 1/20watt 100Kohms 1% 200ppm"                                  
+R55        100k                           TopLayer PANASONIC_0402         3017.717      1456.063      90       "Thick Film Resistors - SMD 1/20watt 100Kohms 1% 200ppm"                                  
+R54        1k                             TopLayer PANASONIC_0402         2657.480      1751.653      270      "Thick Film Resistors - SMD 1/16watt 1Kohms 1% Commercial Use"                            
+R53        1k                             TopLayer PANASONIC_0402         2696.851      1751.653      270      "Thick Film Resistors - SMD 1/16watt 1Kohms 1% Commercial Use"                            
+R26        4.3k                           TopLayer PANASONIC_0402         413.386       1195.197      90       "Thick Film Resistors - SMD 1/16watt 4.3Kohms 5%"                                         
+R25        18k                            TopLayer PANASONIC_0402         413.386       944.882       270      "Thick Film Resistors - SMD 1/16watt 18Kohms 1%"                                          
+R22        62k                            TopLayer PANASONIC_0402         354.331       944.567       270      "Thick Film Resistors - SMD 1/10watt 62Kohms 1%"                                          
+D8         "Red & Bright Green, 2V, 140°" TopLayer WL-SBCC_0603           2677.165      1850.079      270      "WL-SBCC SMT Bi-color Chip LED Compact, size 0603, Red & Bright Green, 2V, 140°"          
+C38        100n                           TopLayer MURATA_0402            3011.811      1338.583      90       "Multilayer Ceramic Capacitors MLCC - SMD/SMT 0.1 uF 50 VDC 10% 0402 X7R AEC-Q200"        
+C27        10u                            TopLayer MURATA_0603            2964.321      1333.484      270      "Multilayer Ceramic Capacitors MLCC - SMD/SMT 10 uF 35 VDC 20% 0603 X5R"                  
+C25        100n                           TopLayer MURATA_0402            492.126       1135.827      270      "Multilayer Ceramic Capacitors MLCC - SMD/SMT 0.1 uF 50 VDC 10% 0402 X7R AEC-Q200"        
+MP4        "M3 x 2.5mm"                   TopLayer 78614025360            2777.323      342.520       0        "WE-SMSA SMT Spacer Studs Automotive, OD 6mm, ID 4.2mm, M3 x 2.5mm"                       
+MP5        "M3 x 2.5mm"                   TopLayer 78614025360            2777.323      1307.087      0        "WE-SMSA SMT Spacer Studs Automotive, OD 6mm, ID 4.2mm, M3 x 2.5mm"                       
+MP6        "M3 x 2.5mm"                   TopLayer 78614025360            1.732         1307.087      0        "WE-SMSA SMT Spacer Studs Automotive, OD 6mm, ID 4.2mm, M3 x 2.5mm"                       
+MP7        "M3 x 2.5mm"                   TopLayer 78614025360            1.732         342.520       0        "WE-SMSA SMT Spacer Studs Automotive, OD 6mm, ID 4.2mm, M3 x 2.5mm"                       
+J2         PJ-051A                        TopLayer PJ-051A                288.900       1707.676      270      "DC Power Connectors Power Jack"                                                          
+J3         B2B-XH-A(LF)(SN)               TopLayer JST_B2B-XH-A(LF)(SN)   3148.622      1358.268      270      "Connector Header Through Hole 2 position 0.098 (2.50mm)"                                 
+J1         53748-0408                     TopLayer 537480408              1025.354      421.260       180      "Molex B2B 40 Pos, 0.5mm pitch, stack-height 3 mm, mates with 52991-0408"                 

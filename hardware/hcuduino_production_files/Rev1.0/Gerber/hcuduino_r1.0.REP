@@ -2,134 +2,12 @@
 FileName = hcuduino_r1.0.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : hcucc_r1.GTL
-
-    Adding Layer      : Top Layer
+Generating : Outline
+      File : hcucc_r1.GM1
 
     Adding Layer      : Outline
 
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D14
-    D20
-    D21
-    D22
-    D23
-    D24
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-*************************************************************
-
-*************************************************************
-Generating : Int1 (GND)
-      File : hcumc_r1.G1
-
-    Adding Layer      : Int1 (GND)
-
     Adding Layer      : Outline
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D20
-    D65
-    D66
-    D68
-    D69
-    D71
-    D72
-    D73
-    D75
-*************************************************************
-
-*************************************************************
-Generating : Int2 (PWR)
-      File : hcucc_r1.G2
-
-    Adding Layer      : Int2 (PWR)
-
-    Adding Layer      : Outline
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D14
-    D20
-    D63
-    D66
-    D67
-    D68
-    D75
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : hcucc_r1.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Outline
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D14
-    D20
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D75
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : hcucc_r1.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Outline
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
@@ -150,71 +28,47 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Outline
-      File : hcucc_r1.GM1
+Generating : Bottom Paste
+      File : hcucc_r1.GBP
+
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Outline
 
-    Adding Layer      : Outline
-
-
-Used DCodes :
-    D20
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : hcucc_r1.GTO
-
-    Adding Layer      : Top Overlay
-
-    Adding Layer      : Outline
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : hcucc_r1.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Outline
-
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : hcucc_r1.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D76
 *************************************************************
 
 *************************************************************
@@ -260,30 +114,176 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : hcucc_r1.GBS
+Generating : Top Paste
+      File : hcucc_r1.GTP
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Top Paste
 
     Adding Layer      : Outline
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D20
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D76
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : hcucc_r1.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : hcucc_r1.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D14
+    D20
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Int2 (PWR)
+      File : hcucc_r1.G2
+
+    Adding Layer      : Int2 (PWR)
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D14
+    D20
+    D63
+    D66
+    D67
+    D68
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Int1 (GND)
+      File : hcumc_r1.G1
+
+    Adding Layer      : Int1 (GND)
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D65
+    D66
+    D68
+    D69
+    D71
+    D72
+    D73
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : hcucc_r1.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D14
+    D20
+    D21
+    D22
+    D23
+    D24
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
 *************************************************************
 
 *************************************************************

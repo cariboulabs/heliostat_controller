@@ -1,0 +1,10 @@
+Output: ExportSTEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [hcuduino_r1.0.PcbDoc]
+   Generated File[hcuduino_r1.0.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:19:03 PM On 5/16/2025

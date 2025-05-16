@@ -4,9 +4,9 @@ C:\projects\hcu_hardware\hardware\zeleno_hcuduino\.\REV1.0\Pick Place\Pick Place
 ========================================================================================================================
 File Design Information:
 
-Date:       30/04/25
-Time:       08:51
-Revision:   Not in VersionControl
+Date:       16/05/25
+Time:       17:18
+Revision:   92c6ba97c9fd29ea8637d9ad83c8b870d3d77918
 Variant:    No variations
 Units used: mil
 
